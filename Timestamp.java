@@ -6,5 +6,6 @@ public class Timestamp {
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         String timestamp = sdf.format(new Date());
         System.out.println("Current Timestamp: " + timestamp);
+        System.out.println("Kunal Puri -WLBatchB029 ");
     }
 }
